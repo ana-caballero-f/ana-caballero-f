@@ -8,6 +8,6 @@
 - 🔭 I’m currently working on personal projects to improve my skills.
 - 🌱 I’m currently using React, React Redux and Angular.
 - 👯 I’m looking to collaborate on ...¡frontend projects!
-- 📫 How to reach me: 
+- 📫 Let's talk! 
       https://www.linkedin.com/in/ana-caballero-frontend-developer/
 
